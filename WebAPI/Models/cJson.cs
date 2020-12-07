@@ -1,8 +1,4 @@
-﻿using Business.Models;
-using System;
-using System.Collections.Generic;
-
-namespace Bild_WebAPI.Models
+﻿namespace Bild_WebAPI.Models
 {
 	public class cJson
 	{

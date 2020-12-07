@@ -13,16 +13,16 @@ A API StarWarsAPI é uma aplicação para listar Filmes, Planetas e Personagens 
 
 A API está configurada e publicada em ambiente AWS e pode ser acessada através do link abaixo:
 
-**http://localhost:11646/api/WebAPI/Lista**
+**http://18.189.166.131/api/WebAPI/Lista**
 
 Para realizar uma consulta, faça a requisição do tipo GET com o corpo em formado json.
 
 Ex.:
-<img src="https://github.com/thiago-mazolli/StarWarsAPI/Exemplo/Lista.png">
+<img src="https://github.com/thiago-mazolli/StarWarsAPI/blob/main/Exemplo/Lista.png">
 
 Para visualizar o log de consultas realizadas com os termos mais buscados use o link abaixo:
 
-**http://localhost:11646/api/WebAPI/Log**
+**http://18.189.166.131/api/WebAPI/Log**
 
 Ex.:
-<img src="https://github.com/thiago-mazolli/StarWarsAPI/Exemplo/Log.png">
+<img src="https://github.com/thiago-mazolli/StarWarsAPI/blob/main/Exemplo/Log.png">

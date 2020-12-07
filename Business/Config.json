@@ -1,0 +1,4 @@
+﻿{
+    "MongoDBconn": "mongodb://localhost:27017/MongoDB",
+	"MongoDBconnNuvem": "mongodb+srv://User1:PassUser1@starwars.tasku.mongodb.net/MongoDB?retryWrites=true&w=majority"
+}
